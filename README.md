@@ -9,8 +9,7 @@ It will show you the probability that the external image is a member of each dat
 Credits:
 
 Code:
-Balaji Srinivasan
-Sentdex
+Balaji Srinivasan, Sentdex
 
 Theory Help:
 Max Pooling
