@@ -12,4 +12,4 @@ Code:
 Balaji Srinivasan, Sentdex
 
 Theory Help:
-Max Pooling
+Deeplizard
