@@ -1,0 +1,5 @@
+# Activation Functions
+
+ReLU
+
+Sigmoid
